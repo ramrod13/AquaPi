@@ -1,5 +1,8 @@
+//
+// Credit to LMR user Mogul's comment here: http://letsmakerobots.com/node/34168
+//
 #include <Servo.h>
-#include "WProgram.h"
+//#include "WProgram.h"
 
 class servo360
 {
