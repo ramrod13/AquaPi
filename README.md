@@ -3,6 +3,8 @@ AquaPi
 
 <b>2014 Class project</b>
 
+http://i.imgur.com/6dMhVY2.gif
+
 Below is where the things are at.
 
 1. AquaPi [Server] (http://tesla.wcjc.edu:2001)
